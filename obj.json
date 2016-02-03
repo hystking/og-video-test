@@ -2,8 +2,8 @@
   "meta": {
     "title": "og video test",
     "description": "this is a og video test page",
-    "url": "http://hystking.github.io/",
-    "ogImage": "http://hystking.github.io/bbb.jpg",
-    "ogVideo": "http://hystking.github.io/bbb.mp4"
+    "url": "http://hystking.github.io/og-video-test/",
+    "ogImage": "http://hystking.github.io/og-video-test/bbb.jpg",
+    "ogVideo": "http://hystking.github.io/og-video-test/bbb.mp4"
   }
 }
