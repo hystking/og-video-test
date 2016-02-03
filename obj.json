@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "title": "og video test",
+    "description": "this is a og video test page",
+    "url": "http://hystking.github.io/",
+    "ogImage": "http://hystking.github.io/bbb.jpg",
+    "ogVideo": "http://hystking.github.io/bbb.mp4"
+  }
+}

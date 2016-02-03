@@ -1,0 +1,18 @@
+doctype
+html
+  head
+    title= meta.title
+    meta(name="description", content=meta.description)
+    meta(name="keywords", content=meta.keywords)
+
+    //- Facebook OGP
+    meta(name="og:title", content=meta.title)
+    meta(name="og:description", content=meta.description)
+    meta(name="og:type", content="website")
+    meta(name="og:url", content=meta.url)
+    meta(name="og:image", content=meta.ogImage)
+    meta(name="og:video", content=meta.ogVideo)
+    meta(name="og:video:type", content="video/mp4")
+    meta(name="og:site_name", content=meta.title)
+  body
+    og video test
