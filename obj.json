@@ -4,7 +4,7 @@
     "description": "this is a og video test page",
     "url": "http://hystking.github.io/og-video-test-2/",
     "ogImage": "http://hystking.github.io/og-video-test-2/bbb.jpg",
-    "ogVideo": "http://hystking.github.io/og-video-test-2/bbb.mp4"
+    "ogVideo": "http://hystking.github.io/og-video-test-2/player.swf?video_path=bbb.mp4"
   },
   "fb": {
     "app_id": "458011117688182"
